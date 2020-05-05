@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\Font.spritefont</Source>
+      <Name>Fonts\Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Jogo_ninja- Visual studio 2015\Akira\Akira\Akira\bin\x86\Debug\Content\Fonts\Font.xnb</Output>
+      <Time>2019-01-08T16:46:24.8576986-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\b1.png</Source>
+      <Name>Backgrounds\b1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Jogo_ninja- Visual studio 2015\Akira\Akira\Akira\bin\x86\Debug\Content\Backgrounds\b1.xnb</Output>
+      <Time>2019-01-12T14:06:55.6348408-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Akira_\akira1.png</Source>
+      <Name>Akira_\akira1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Jogo_ninja- Visual studio 2015\Akira\Akira\Akira\bin\x86\Debug\Content\Akira_\akira1.xnb</Output>
+      <Time>2019-01-15T22:24:48.9766234-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Akira_\akira2.png</Source>
+      <Name>Akira_\akira2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Jogo_ninja- Visual studio 2015\Akira\Akira\Akira\bin\x86\Debug\Content\Akira_\akira2.xnb</Output>
+      <Time>2019-01-15T22:25:03.7724347-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\b2.png</Source>
+      <Name>Backgrounds\b2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Jogo_ninja- Visual studio 2015\Akira\Akira\Akira\bin\x86\Debug\Content\Backgrounds\b2.xnb</Output>
+      <Time>2019-01-12T14:27:14.3673084-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\b4.png</Source>
+      <Name>Backgrounds\b4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Jogo_ninja- Visual studio 2015\Akira\Akira\Akira\bin\x86\Debug\Content\Backgrounds\b4.xnb</Output>
+      <Time>2019-01-10T18:46:48.9514329-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\b3.png</Source>
+      <Name>Backgrounds\b3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Jogo_ninja- Visual studio 2015\Akira\Akira\Akira\bin\x86\Debug\Content\Backgrounds\b3.xnb</Output>
+      <Time>2019-01-10T18:58:09.4190722-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Akira_\akira_ataque.png</Source>
+      <Name>Akira_\akira_ataque</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Jogo_ninja- Visual studio 2015\Akira\Akira\Akira\bin\x86\Debug\Content\Akira_\akira_ataque.xnb</Output>
+      <Time>2019-01-17T01:12:51.7374564-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Akira_\akira_ataque_esq.png</Source>
+      <Name>Akira_\akira_ataque_esq</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Jogo_ninja- Visual studio 2015\Akira\Akira\Akira\bin\x86\Debug\Content\Akira_\akira_ataque_esq.xnb</Output>
+      <Time>2019-01-17T01:13:09.0379275-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sons\Espada.wav</Source>
+      <Name>Sons\Espada</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Jogo_ninja- Visual studio 2015\Akira\Akira\Akira\bin\x86\Debug\Content\Sons\Espada.xnb</Output>
+      <Time>2019-01-10T22:04:44.9304456-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Akira_\Shuriken_RightLeft.png</Source>
+      <Name>Akira_\Shuriken_RightLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Jogo_ninja- Visual studio 2015\Akira\Akira\Akira\bin\x86\Debug\Content\Akira_\Shuriken_RightLeft.xnb</Output>
+      <Time>2019-01-11T15:32:37.6183498-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Akira_\Shuriken_LeftRight.png</Source>
+      <Name>Akira_\Shuriken_LeftRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Jogo_ninja- Visual studio 2015\Akira\Akira\Akira\bin\x86\Debug\Content\Akira_\Shuriken_LeftRight.xnb</Output>
+      <Time>2019-01-11T15:32:54.9691532-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Inimigos\Inimigo1.png</Source>
+      <Name>Inimigos\Inimigo1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Jogo_ninja- Visual studio 2015\Akira\Akira\Akira\bin\x86\Debug\Content\Inimigos\Inimigo1.xnb</Output>
+      <Time>2019-01-11T22:15:57.6456417-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID Null="true" />
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Jogo_ninja- Visual studio 2015\Akira\Akira\AkiraContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Jogo_ninja- Visual studio 2015\Akira\Akira\Akira\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Jogo_ninja- Visual studio 2015\Akira\Akira\AkiraContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Jogo_ninja- Visual studio 2015\Akira\Akira\Akira\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-12-04T15:53:11.5809635-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
